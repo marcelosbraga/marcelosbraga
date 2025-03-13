@@ -32,8 +32,9 @@
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 <br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcelosbraga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=marcelosbraga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marcelosbraga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)                                                                                                                                                
+                                                                                                                                                
+![](https://nirzak-streak-stats.vercel.app/?user=marcelosbraga&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosbraga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
