@@ -1,5 +1,18 @@
-# 💫 About Me:
-💡 I am a Data Developer with extensive experience, currently updating my skills to keep up with market demands and prepare for a future career transition. <br>📊 Over the years, I have worked as a Test Analyst, Systems Analyst, Requirements Analyst, and Systems Developer in the telecommunications, social security, agriculture, and accounting sectors, and my last role was as a Tech Lead in the largest educational group in Brazil.<br>📍 Currently in Cork, Ireland, studying English to expand my professional opportunities.<br>📚 Current Studies<br> - Full Stack Development with a focus on JavaScript for front-end and back-end.<br> - Preparing for the Microsoft PL-300 certification.<br>🎓 Education<br> - Postgraduate: Full Stack Development – PUCRS (2024– 2025)<br> - Bachelor's Degree: Systems Technology – UNA (2008 – 2018)<br>📜 Certifications<br> - Microsoft Certified: Azure AI Fundamentals (AI-900) <br> - Microsoft Certified: Azure Fundamentals (AZ-900) <br> - Microsoft Certified: Azure Data Fundamentals (DP-900)<br>📚 Additional Training & Courses<br> - Power BI - Advanced Analyst – Ka Solution<br> - Power BI Desktop – Ka Solution<br> - Power BI Services – Ka Solution<br> - Scrum Foundation Professional Certificate (SFPC) – Certi-Prof<br> - Fundamentals of Python for Data Analyst and Data Science – Data Science Academy<br><br>
+# 👋 Olá, eu sou o Marcelo Braga
+
+Profissional com mais de 15 anos de experiência em **análise de dados e processos administrativos**.  
+Especialista em **Excel avançado** e **Power BI**, com foco em relatórios, indicadores e melhoria de rotinas.  
+
+## 🚀 Competências
+- Excel avançado  
+- Power BI (dashboards e indicadores)  
+- Python (fundamentos para análise de dados)  
+- Organização de processos administrativos  
+
+## 📂 Projetos em destaque
+- [Dashboard Financeiro em Power BI](link-do-repo)  
+- [Automatização de relatórios em Excel](link-do-repo)  
+- [Scripts de análise de dados em Python](link-do-repo)  
 
 
 ## 🌐 Socials:
