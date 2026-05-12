@@ -10,9 +10,6 @@ Especialista em **Excel avançado** e **Power BI**, com foco em relatórios, ind
 - Organização de processos administrativos  
 
 ## 📂 Projetos em destaque
-- [Dashboard Financeiro em Power BI](link-do-repo)  
-- [Automatização de relatórios em Excel](link-do-repo)  
-- [Scripts de análise de dados em Python](link-do-repo)  
 
 
 ## 🌐 Socials:
